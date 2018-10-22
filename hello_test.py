@@ -1,5 +1,5 @@
 import unittest
-from Experiment import Greeter
+from hello import Greeter
 
 class MyTestCase(unittest.TestCase):
     def test_default_greeting_set(self):
