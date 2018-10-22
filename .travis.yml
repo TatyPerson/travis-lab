@@ -5,7 +5,7 @@ python:
   - "2.7"
 
 install:
-  - conda install pytest
+  - pip install pytest
 
 script: 
 
